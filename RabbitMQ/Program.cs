@@ -15,7 +15,6 @@ namespace RabbitMQ
 
         static void Main(string[] args)
         {             
-
             using (IConnection conn = rabbitMqFactory.CreateConnection())
             using (IModel channel = conn.CreateModel())
             {
