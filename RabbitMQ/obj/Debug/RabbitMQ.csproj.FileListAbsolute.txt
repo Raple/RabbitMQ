@@ -1,0 +1,8 @@
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csprojResolveAssemblyReference.cache
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+D:\ETAO2\Code\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
